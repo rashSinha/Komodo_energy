@@ -63,7 +63,6 @@ Smart grids enable households to shift energy usage away from peak price periods
 
 - Evening usage peaks overlap with Agile price spikes, especially for heat pump households.
 - A simple rule-based optimisation can cut costs by 15–25% if only 40% of load is shifted.
-- Forecasting with lag features achieves low MAE; could be expanded using LSTM.
 - Flex scoring reveals strong alignment with turn-down events for specific household types.
 
 ## Notebook Structure
