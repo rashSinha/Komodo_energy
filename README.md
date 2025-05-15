@@ -1,7 +1,7 @@
 
 # Komodo Energy Coding Exercise
 
-This project explores household electricity usage under Agile (dynamic) pricing to explore household cost optimisation strategies and evaluate event-based flexibility potential. It includes exploratory analysis, forecasting, cost modelling, and event-based flexibility scoring.
+This project explores household electricity usage under Agile (dynamic) pricing to explore household cost optimisation strategies and evaluate event-based flexibility potential. It includes exploratory analysis, cost model, and event-based flexibility score.
 
 ---
 
