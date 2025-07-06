@@ -1,5 +1,5 @@
 
-# Komodo Energy Coding Exercise
+# Smart Grid Pricing Optimisation and Flexibility Scoring
 
 This project explores household electricity usage under Agile (dynamic) pricing to explore household cost optimisation strategies and evaluate event-based flexibility potential. It includes exploratory analysis, cost model, and event-based flexibility score.
 
@@ -94,7 +94,7 @@ Smart grids enable households to shift energy usage away from peak price periods
 
 ---
 
-## Questions I'd Explore at Komodo
+## Questions I'd Explore
 
 - How are flexibility signals currently communicated to households?
 - What constraints (e.g., heating minimums) exist for demand turn-down?
