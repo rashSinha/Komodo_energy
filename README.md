@@ -16,7 +16,7 @@ Smart grids enable households to shift energy usage away from peak price periods
 
 ## Files
 
-- `Komodo_Energy.ipynb` – Fully structured notebook (load → explore → model → insights)
+- `Smart_Grid.ipynb` – Fully structured notebook (load → explore → model → insights)
 - `household_usage.csv` – Simulated 30-min electricity usage for 3 household types
 - `agile_price_example.json` – Agile pricing data (Octopus)
 - `flexibility_opportunity.json` – Event-based incentive windows
@@ -38,7 +38,7 @@ Smart grids enable households to shift energy usage away from peak price periods
    ```
 3. Run the notebook:  
    ```bash
-   jupyter notebook Komodo_Energy.ipynb
+   jupyter notebook Smart_Grid.ipynb
    ```
 
 ### Streamlit Dashboard

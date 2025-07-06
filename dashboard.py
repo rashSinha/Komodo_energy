@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import json
 
-st.set_page_config(page_title="Komodo Energy Dashboard", layout="wide")
-st.title("⚡ Komodo Energy Dashboard")
+st.set_page_config(page_title="Smart Grid Dashboard", layout="wide")
+st.title("⚡ Smart Grid Dashboard")
 
 # Load cleaned usage data
 df = pd.read_csv("household_usage_cleaned.csv")
